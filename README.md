@@ -5,6 +5,6 @@
 
 ## Contact & Channel
 Blog : https://honggom.tistory.com/<br>
-Email : jaehongbyeon98@gmail.com
+Email : cavok699@naver.com
 
 
