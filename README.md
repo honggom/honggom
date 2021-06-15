@@ -4,7 +4,7 @@
 💪운동과 ☕️카페를 좋아합니다.
 
 ## Contact & Channel
-Blog : honggom.tistory.com<br>
+Blog : https:honggom.tistory.com<br>
 Email : cavok699@naver.com
 
 
