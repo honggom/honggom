@@ -4,6 +4,3 @@
 ## Contact & Channel
 Blog : https://honggom.tistory.com<br>
 Email : cavok699@naver.com
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=honggom)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggom&theme=tokyonight)
